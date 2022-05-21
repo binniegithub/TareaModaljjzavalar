@@ -79,3 +79,17 @@ table th {
     background-color: #4CAF50; /*fondo de color verde*/
     color: white;/*color de texto blanco*/
 }
+
+.gendermale{
+    background-image: url("../img/male.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+}
+
+.genderfemale{
+    background-image: url("../img/female.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
